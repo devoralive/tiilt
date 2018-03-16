@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/devoralive/tiilt#readme",
   "devDependencies": {
-    "electron": "^1.8.4"
+    "electron": "^1.8.4",
+    "jshint": "^2.9.5"
+  },
+  "dependencies": {
+    "mysql": "^2.15.0"
   }
 }
